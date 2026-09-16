@@ -11,6 +11,7 @@ Il notebook `CODICE_TESI_process_mining.ipynb` contiene le principali elaborazio
 - importazione e descrizione del dataset OCEL;
 - costruzione dell’event log order-centric;
 - analisi delle frequenze delle attività;
+- calcolo delle frequenze delle relazioni directly-follows;
 - Process Discovery mediante Inductive Miner;
 - generazione del Process Tree;
 - calcolo delle metriche di fitness, precision, generalization e simplicity;
