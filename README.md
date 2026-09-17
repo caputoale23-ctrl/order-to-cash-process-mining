@@ -34,7 +34,7 @@ Per eseguire il notebook è necessario disporre del file:
 
 Il dataset deve essere collocato nella stessa cartella del notebook prima dell’esecuzione.
 
-Il dataset utilizzato è un event log pubblico simulato in formato OCEL 2.0 relativo al processo Order-to-Cash, citato nella tesi come Berti (2024).
+Il dataset utilizzato è un event log pubblico simulato in formato OCEL 2.0 relativo al processo Order-to-Cash.
 
 ## Esecuzione
 
